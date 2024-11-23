@@ -1,0 +1,38 @@
+
+
+
+
+
+@font-face {
+    font-family:"delicius";
+    src: url(../fonts/hHachimaki.ttf);
+    font-family:"naruto";
+    src: url(../fonts/njnaruto.ttf);
+}
+
+
+
+
+
+
+
+
+body{
+    background-color: orange;
+}
+
+
+
+h1 {
+    color: white;
+    background-color: black;
+    font-family:"naruto";
+    font-weight: 600;
+    font-style: oblique;
+}
+
+p {
+    color: black;
+    font-family:"delicius";
+    font-size: 16px;
+}
